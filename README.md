@@ -15,7 +15,10 @@ Below NuGet packages have been used:-
 2. Active MongoDB server with database name as "MachiniaDB" and collection name as "Machinia" 
 
 # Steps
-1. 
+1. Download the zip from below path:-
+  https://github.com/GogirlDipika/Backend_Machinia_DipikaPriyadarsini/archive/refs/heads/master.zip
+2. Open with visual studio 2022 MachiniaAPI solution file
+3. Run the API code 
 
   
 

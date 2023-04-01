@@ -14,7 +14,8 @@ Below NuGet packages have been used:-
 1. The windows client OS system with Visual studio 2022 or higher, .net framework 6 with web development framework and MongoDB server installed
 2. Active MongoDB server with database name as "MachiniaDB" and collection name as "Machinia" 
 
-# 
+# Steps
+1. 
 
   
 
